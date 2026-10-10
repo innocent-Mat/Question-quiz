@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the output of print(2 + 3)?",
+    "options": [
+      "A. 23",
+      "B. 5",
+      "C. 6",
+      "D. 1"
+    ],
+    "answer": "B",
+    "explanation": "The + operator adds the two numbers."
+  },
+  {
+    "question": "Which Python data type stores True or False?",
+    "options": [
+      "A. str",
+      "B. list",
+      "C. bool",
+      "D. dict"
+    ],
+    "answer": "C",
+    "explanation": "bool represents Boolean values."
+  },
+  {
+    "question": "Which symbol starts a comment in Python?",
+    "options": [
+      "A. //",
+      "B. #",
+      "C. <!--",
+      "D. **"
+    ],
+    "answer": "B",
+    "explanation": "A Python comment begins with #."
+  },
+  {
+    "question": "Which collection is ordered and mutable?",
+    "options": [
+      "A. tuple",
+      "B. set",
+      "C. list",
+      "D. frozenset"
+    ],
+    "answer": "C",
+    "explanation": "Lists preserve order and can be changed."
+  },
+  {
+    "question": "What does len('Python') return?",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "B",
+    "explanation": "Python has six characters."
+  },
+  {
+    "question": "Which keyword defines a function?",
+    "options": [
+      "A. function",
+      "B. fun",
+      "C. def",
+      "D. define"
+    ],
+    "answer": "C",
+    "explanation": "Functions are defined with def."
+  },
+  {
+    "question": "Which data structure stores key-value pairs?",
+    "options": [
+      "A. dict",
+      "B. list",
+      "C. str",
+      "D. int"
+    ],
+    "answer": "A",
+    "explanation": "A dictionary maps keys to values."
+  },
+  {
+    "question": "What is the result of 10 // 3?",
+    "options": [
+      "A. 3.33",
+      "B. 1",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "explanation": "// performs floor division."
+  },
+  {
+    "question": "Which loop is commonly used to iterate over a sequence?",
+    "options": [
+      "A. for",
+      "B. switch",
+      "C. do-until",
+      "D. repeat"
+    ],
+    "answer": "A",
+    "explanation": "A for loop iterates over sequence items."
+  },
+  {
+    "question": "Which standard module can shuffle a list randomly?",
+    "options": [
+      "A. math",
+      "B. random",
+      "C. os",
+      "D. time"
+    ],
+    "answer": "B",
+    "explanation": "random.shuffle() shuffles a list in place."
+  },
+  {
+    "question": "How do you convert text '42' to an integer?",
+    "options": [
+      "A. str('42')",
+      "B. float_text('42')",
+      "C. int('42')",
+      "D. number('42')"
+    ],
+    "answer": "C",
+    "explanation": "int('42') converts the string to an integer."
+  },
+  {
+    "question": "Which block handles an exception in Python?",
+    "options": [
+      "A. if/else",
+      "B. try/except",
+      "C. for/while",
+      "D. def/return"
+    ],
+    "answer": "B",
+    "explanation": "try/except handles exceptions."
+  }
+]
